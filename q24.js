@@ -1,3 +1,4 @@
+// by the authorization of Tomer, this question doesn't include the input  from the index page
 function scan(arr) {
   let arr1 = [];
   for (let i = 0; i < arr.length; i++) {

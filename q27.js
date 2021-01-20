@@ -1,3 +1,4 @@
+// by the authorization of Tomer, this question doesn't include the input  from the index page
 function identifyValue(arr, prop) {
   let extractedValue = [];
 
